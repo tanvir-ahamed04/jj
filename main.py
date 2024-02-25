@@ -17,7 +17,7 @@ def print_hash(width):
 def body_inside():
     print_body(10)
     
-    # body-setup 
+    # body-setup- 
 def print_body(height):
     for a in range(height):
         for b in range(height):
